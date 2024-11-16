@@ -1,0 +1,6 @@
+# Ignore virtual environment directories
+prod/front/node_modules
+prod/front/.vite'
+prod/__pycache__
+pdfreader/env.py
+.venv/
